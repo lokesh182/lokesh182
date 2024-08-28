@@ -46,7 +46,8 @@
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
-
+![Lokesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lokesh182&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh182&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh182&show_icons=true&locale=en&layout=compact" alt="lokesh182" /></p>
 
